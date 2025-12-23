@@ -1,0 +1,1 @@
+o git permite incluir qualquer arquivo de texto, n apenas código
