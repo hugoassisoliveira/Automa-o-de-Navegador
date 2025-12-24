@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# NO SPYDER ESSA BOMBA TA BUGADA OU O CAMINHO TÁ ERRADO ;-;
-# POR ENQUANTO USAR A IDE NORMAL DO PYTHON MSM
 
 
 from selenium import webdriver
@@ -26,7 +24,7 @@ print(message.text)
 # para digitar em uma barra de entrada/inserção de dados
 # usa primeiro o find_element
 # depois que achar usar as funções send_keys('texto aqui') e submit()
-elemento.send_keys('curso de automação')  # digita no campo de inserção de texto
+elemento.send_keys('Automação')  # digita no campo de inserção de texto
 elemento.submit() # o enter
 
 # porém aqui corre o risco de entrar numa pagina de captcha onde será
